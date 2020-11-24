@@ -1,0 +1,19 @@
+div{
+    border: solid;
+   border-color:#7d4380
+}
+.gamecontainer{
+
+    display: flex;
+    justify-content:space-evenly;
+   flex-wrap:wrap;
+   flex-direction: row;
+   align-items: unset;
+   
+}
+.gameitem{
+    
+    flex-shrink: 4;
+    margin: 10px;
+    padding: 10px;
+}
